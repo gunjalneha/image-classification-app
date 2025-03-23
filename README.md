@@ -19,5 +19,5 @@ Deployment: Streamlit Sharing / Render / Hugging Face Spaces
 3️⃣ The app displays the classification result with confidence scores
 
 Screenshots:
-
+https://github.com/gunjalneha/image-classification-app/issues/1
 https://github.com/gunjalneha/image-classification-app/issues/2

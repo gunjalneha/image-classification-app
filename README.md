@@ -17,3 +17,7 @@ Deployment: Streamlit Sharing / Render / Hugging Face Spaces
 1️⃣ User uploads an image
 2️⃣ The model processes the image
 3️⃣ The app displays the classification result with confidence scores
+
+Screenshots:
+
+https://github.com/gunjalneha/image-classification-app/issues/2

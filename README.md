@@ -21,3 +21,6 @@ Deployment: Streamlit Sharing / Render / Hugging Face Spaces
 Screenshots:
 https://github.com/gunjalneha/image-classification-app/issues/1
 https://github.com/gunjalneha/image-classification-app/issues/2
+
+ Live Demo:
+ https://image-classification-app-jejeugd3luxowvuyo2r5eu.streamlit.app/
